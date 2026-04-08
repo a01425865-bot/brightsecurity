@@ -1,0 +1,27 @@
+{
+  "name": "Bright Security",
+  "short_name": "BrightSec",
+  "description": "Report and track community issues — your voice, your city.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF6F1",
+  "theme_color": "#C4553A",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23C4553A'/%3E%3Cpath d='M256 96l-144 64v96c0 88.4 61.2 171.2 144 192 82.8-20.8 144-103.6 144-192v-96l-144-64z' fill='%23fff'/%3E%3Cpath d='M256 176c-26.5 0-48 21.5-48 48s21.5 48 48 48 48-21.5 48-48-21.5-48-48-48zm0 128c-44.2 0-80 20.1-80 45v11h160v-11c0-24.9-35.8-45-80-45z' fill='%23C4553A'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%23C4553A'/%3E%3Cpath d='M96 36l-54 24v36c0 33.2 23 64.2 54 72 31-7.8 54-38.8 54-72V60L96 36z' fill='%23fff'/%3E%3Cpath d='M96 66c-10 0-18 8-18 18s8 18 18 18 18-8 18-18-8-18-18-18zm0 48c-16.6 0-30 7.5-30 16.9V135h60v-4.1c0-9.4-13.4-16.9-30-16.9z' fill='%23C4553A'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "social"],
+  "lang": "en",
+  "dir": "ltr"
+}
